@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "info.hannes.liveedgedetection.demo.debug",
+    "sha256_cert_fingerprints":
+    ["35:A4:51:E2:EA:BC:0F:66:28:01:EE:EA:5F:1A:1E:5D:6C:8B:D4:70:86:F4:E0:10:EC:8D:4E:4F:E5:B2:D1:46"]
+  }
+}]
